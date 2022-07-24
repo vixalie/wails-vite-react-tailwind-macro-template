@@ -20,7 +20,7 @@ Included:
 - Form support: **Formik** 2.2
 - Preprocessor CSS: **Less** 4.1
 
-This template does NOT include any components library, you are free to choose any library you like.
+This template does NOT include any components library, you are free to choose any library you like. To use Tailwind CSS with Emotion, you may follow examples in `App.tsx`. Some path aliases is defined in `tsconfig.json` and `vite.config.ts`, you may define additional aliases in both configuration files.
 
 ## Live Development
 
